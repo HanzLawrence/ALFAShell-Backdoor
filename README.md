@@ -7,3 +7,6 @@ Fiture
 #Bypass 403 Litespeed
 #Unlock Shell
 shell password : sergeykarjakin
+
+
+to run the shell you must click tab and show the bar for you in password
