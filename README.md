@@ -6,6 +6,8 @@ Fiture
 
 Bypass 403 Litespeed
 
+Bypass 404 Litespeed
+
 Unlock Shell
 
 shell password : sergeykarjakin
